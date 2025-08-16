@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../SPI_Deneme"
+		},
+		{
+			"name": "SPI_ESP32S3_Master",
+			"path": ".."
+		},
+		{
+			"name": "SPI_ESP32C3_Slace",
+			"path": "../../SPI_ESP32C3_Slace"
+		}
+	],
+	"settings": {}
+}
